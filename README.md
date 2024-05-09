@@ -1,5 +1,5 @@
 <div align="center">
-🎓 Análise e Desenvolvimento de Sistemas. 🌱 Frontend.
+🎓 Análise e Desenvolvimento de Sistemas
 </div>
 <br>
 
