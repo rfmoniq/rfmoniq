@@ -1,12 +1,6 @@
 <div align="center">
 🎓 Análise e Desenvolvimento de Sistemas
 </div>
-<br>
-
-<div align="center">
-  <a href="https://github.com/rfmoniq">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfmoniq&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
 ##
 
